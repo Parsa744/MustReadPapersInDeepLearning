@@ -11,7 +11,7 @@
 - Learning Transferable Visual Models From Natural Language Supervision
 (https://arxiv.org/pdf/2103.00020)
 
-#*Diffusion Models*
+# *Diffusion Models*
 
 - Denoising Diffusion Probabilistic Models
 (https://arxiv.org/pdf/2006.11239)
