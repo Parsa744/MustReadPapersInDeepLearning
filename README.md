@@ -5,6 +5,11 @@
 
 # *Natural Language Processing (NLP)*
 
+- Attention Is All You Need (https://arxiv.org/pdf/1706.03762)
+
+- BERT: Pre-training of Deep Bidirectional Transformers for
+Language Understanding (https://arxiv.org/pdf/1810.04805)
+
 - Improving Language Understanding by Generative Pre-Training
 (https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
