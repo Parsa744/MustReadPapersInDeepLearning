@@ -30,3 +30,11 @@ Language Understanding (https://arxiv.org/pdf/1810.04805)
 
 - Flow Matching for Generative Modeling
 (https://arxiv.org/pdf/2210.02747)
+
+- High-Resolution Image Synthesis with Latent Diffusion Models
+(https://arxiv.org/pdf/2112.10752)
+
+# *time-series*
+
+- Efficiently Modeling Long Sequences with Structured State Spaces
+(https://arxiv.org/pdf/2111.00396)
