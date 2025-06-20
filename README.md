@@ -3,6 +3,9 @@
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 (https://arxiv.org/abs/1505.04597)
 
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+(https://arxiv.org/abs/1606.03657v1)
+
 # *Natural Language Processing (NLP)*
 
 - Attention Is All You Need (https://arxiv.org/pdf/1706.03762)
