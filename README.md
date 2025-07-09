@@ -24,7 +24,8 @@ Language Understanding (https://arxiv.org/pdf/1810.04805)
 
 - Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 (https://arxiv.org/abs/2312.00752)
-
+- High-Resolution Image Synthesis with Latent Diffusion Models
+(https://arxiv.org/abs/2112.10752)
 
 # *Diffusion Models*
 
