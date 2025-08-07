@@ -9,6 +9,10 @@
 - Transformers are Graph Neural Networks 
 (https://arxiv.org/abs/2506.22084)
 
+
+- Xception: Deep Learning with Depthwise Separable Convolutions
+(https://arxiv.org/pdf/1610.02357)
+
 # *Natural Language Processing (NLP)*
 
 - Attention Is All You Need (https://arxiv.org/pdf/1706.03762)
