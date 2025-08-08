@@ -1,7 +1,7 @@
 # *Architectures and basics*
 
 
--Global Attention Mechanism: Retain Information to
+- Global Attention Mechanism: Retain Information to
 Enhance Channel-Spatial Interactions 
 (https://arxiv.org/pdf/2112.05561)
 
