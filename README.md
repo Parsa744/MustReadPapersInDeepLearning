@@ -1,5 +1,10 @@
 # *Architectures and basics*
 
+
+-Global Attention Mechanism: Retain Information to
+Enhance Channel-Spatial Interactions 
+(https://arxiv.org/pdf/2112.05561)
+
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 (https://arxiv.org/abs/1505.04597)
 
