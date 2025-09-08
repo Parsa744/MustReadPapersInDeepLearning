@@ -14,6 +14,8 @@ Enhance Channel-Spatial Interactions
 - Transformers are Graph Neural Networks 
 (https://arxiv.org/abs/2506.22084)
 
+- RoFormer: Enhanced transformer with Rotary Position Embedding
+(https://www.sciencedirect.com/science/article/pii/S0925231223011864)
 
 - Xception: Deep Learning with Depthwise Separable Convolutions
 (https://arxiv.org/pdf/1610.02357)
