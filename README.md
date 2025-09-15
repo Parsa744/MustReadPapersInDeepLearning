@@ -20,6 +20,9 @@ Enhance Channel-Spatial Interactions
 - Xception: Deep Learning with Depthwise Separable Convolutions
 (https://arxiv.org/pdf/1610.02357)
 
+- BAM: Bottleneck Attention Module
+(https://arxiv.org/abs/1807.06514)
+
 # *Natural Language Processing (NLP)*
 
 - Attention Is All You Need (https://arxiv.org/pdf/1706.03762)
